@@ -29,3 +29,4 @@ yarn-error.log*
 .vercel
 .eslintcache
 storybook-static
+/.github
